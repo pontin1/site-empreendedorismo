@@ -1,0 +1,5 @@
+body{background-color: darkturquoise;}
+
+.topo{display: flex; 
+}
+.alunos{display: inline-block;}
